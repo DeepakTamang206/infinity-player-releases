@@ -1,9 +1,9 @@
 {
-    "version": "0.15",
-    "build": 22,
+    "version": "0.16",
+    "build": 23,
     "release_date": "2026-10-23",
-    "title": "Infinity Player Android Beta 0.15",
-    "changelog": "Beta v0.15 with smooth TalkBack percentage announcements and instant installer trigger.",
-    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.15/Infinity_Player_Android_Beta_0_15.apk",
+    "title": "Infinity Player Android Beta 0.16",
+    "changelog": "Beta v0.16 with verified seamless background download and TalkBack announcements.",
+    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.16/Infinity_Player_Android_Beta_0_16.apk",
     "mandatory": false
 }
