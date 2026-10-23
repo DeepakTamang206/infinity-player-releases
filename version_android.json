@@ -1,0 +1,9 @@
+{
+    "version": "0.13",
+    "build": 20,
+    "release_date": "2026-10-23",
+    "title": "Infinity Player Android Beta 0.13",
+    "changelog": "Official Beta v0.13 with integrated in-app auto-updater and TalkBack accessibility support.",
+    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.13/Infinity_Player_Android_Beta_0_13_Premium_Test.apk",
+    "mandatory": false
+}
