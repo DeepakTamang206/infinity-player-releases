@@ -1,0 +1,9 @@
+{
+  "version": "1.4.1",
+  "build": 141,
+  "release_date": "2026-10-24",
+  "title": "Infinity Player PC v1.4.1",
+  "changelog": "Instant window launch fix and non-blocking background update check. Zero startup delay and zero Not Responding freeze.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.1/Infinity_Player_Update_v1.4.1.zip",
+  "mandatory": false
+}
