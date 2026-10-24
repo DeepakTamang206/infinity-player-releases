@@ -7,11 +7,11 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.3/Infinity_Player_Update_v1.4.3.zip",
   "mandatory": false,
   "android": {
-    "version": "0.17.3",
-    "build": 27,
+    "version": "0.17.4",
+    "build": 28,
     "release_date": "2026-10-24",
-    "title": "Infinity Player Android Beta 0.17.3",
-    "changelog": "Stop button returns to results, back returns to search menu, removed annoying continue dialogs and long scrolls.",
+    "title": "Infinity Player Android Beta 0.17.4",
+    "changelog": "Smart AI Voice: live queries speak with configured voice, history allows reading with TalkBack/Eloquence plus on-demand Listen button, and message browser.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.17/Infinity_Player_Android_Beta_0_17.apk",
     "mandatory": false
   }
