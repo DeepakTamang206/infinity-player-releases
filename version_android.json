@@ -1,9 +1,9 @@
 {
-    "version": "0.17",
-    "build": 24,
+    "version": "0.17.1",
+    "build": 25,
     "release_date": "2026-10-24",
-    "title": "Infinity Player Android Beta 0.17",
-    "changelog": "Infinity AI voice assistant, stop button moved to top of player, and full delete/remove support in all favorites.",
+    "title": "Infinity Player Android Beta 0.17.1",
+    "changelog": "Fixed Infinity AI Gemini model endpoints with high-quota failover.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.17/Infinity_Player_Android_Beta_0_17.apk",
     "mandatory": false
 }
