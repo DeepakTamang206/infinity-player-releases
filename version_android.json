@@ -7,11 +7,11 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.3/Infinity_Player_Update_v1.4.3.zip",
   "mandatory": false,
   "android": {
-    "version": "0.18.1",
-    "build": 33,
+    "version": "0.18.2",
+    "build": 34,
     "release_date": "2026-10-24",
-    "title": "Infinity Player Android Beta 0.18.1",
-    "changelog": "YouTube & Live TV Video Player with YouTube Premium background audio playback on screen off, 16:9 widescreen video, and 100% TalkBack accessibility.",
+    "title": "Infinity Player Android Beta 0.18.2",
+    "changelog": "YouTube Video Quality selector (High Quality 720p/1080p, Standard 360p/480p, Data Saver 144p/240p, Audio Only), plus Video player & background audio.",
     "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
