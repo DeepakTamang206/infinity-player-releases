@@ -7,11 +7,11 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.3/Infinity_Player_Update_v1.4.3.zip",
   "mandatory": false,
   "android": {
-    "version": "0.18.5",
-    "build": 37,
+    "version": "0.18.6",
+    "build": 38,
     "release_date": "2026-10-24",
-    "title": "Infinity Player Android Beta 0.18.5",
-    "changelog": "Restored all full Settings (result limit, search filters, quality, download format, autoplay), new Feedback & Diagnostics system, Infinity AI continuous conversation screen with persistent mic/type controls, prominent player video quality button, and smooth in-app updater with live percentage progress bar.",
+    "title": "Infinity Player Android Beta 0.18.6",
+    "changelog": "High-speed DownloadManager auto-updater engine with auto-resume and zero-timeout drops, 52MB optimized build, full Settings menu, AI continuous chat screen, and player video quality controls.",
     "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
