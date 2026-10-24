@@ -1,4 +1,12 @@
 {
+  "version": "1.4.3",
+  "build": 143,
+  "release_date": "2026-10-24",
+  "title": "Infinity Player PC v1.4.3",
+  "changelog": "Restored instant startup update check with speech announcement, plus Favorites delete/remove system.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.3/Infinity_Player_Update_v1.4.3.zip",
+  "mandatory": false,
+  "android": {
     "version": "0.17.3",
     "build": 27,
     "release_date": "2026-10-24",
@@ -6,4 +14,5 @@
     "changelog": "Stop button returns to results, back returns to search menu, removed annoying continue dialogs and long scrolls.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.17/Infinity_Player_Android_Beta_0_17.apk",
     "mandatory": false
+  }
 }
