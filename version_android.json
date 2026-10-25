@@ -3,7 +3,7 @@
   "build": 145,
   "release_date": "2026-10-25",
   "title": "Infinity Player PC v1.4.5",
-  "changelog": "Podcast & Spotify Master Suite: Subscribed Shows, Top 50 India & Global Charts, Categories, RSS Feed Importer, Smart Audio Mode, and Spotify Charts.",
+  "changelog": "Podcast Master Hub: Subscribed Shows, Top 50 India & Worldwide Charts, Categories, RSS Feed Importer. Genuine Spotify Connect & Web API integration (Setup & Login required, zero third-party rerouting).",
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.5/Infinity_Player_Update_v1.4.5.zip",
   "mandatory": false,
   "android": {
@@ -11,7 +11,7 @@
     "build": 43,
     "release_date": "2026-10-25",
     "title": "Infinity Player Android Beta 0.20.0",
-    "changelog": "Podcast & Spotify Master Suite: Subscriptions, Top 50 India/Global Shows, Categories, Resume Listening, Playback Speed (1.0x-2.0x), Spotify Charts, Moods, and App Remote.",
+    "changelog": "Podcast Master Hub: Subscriptions, Top 50 India/Global Shows, Categories, Resume Listening, Playback Speed (1.0x-2.0x). Genuine Spotify Integration & App Remote (Login required, zero third-party rerouting).",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.18/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
