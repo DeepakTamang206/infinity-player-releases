@@ -1,10 +1,10 @@
 {
-  "version": "1.4.4",
-  "build": 144,
+  "version": "1.4.5",
+  "build": 145,
   "release_date": "2026-10-25",
-  "title": "Infinity Player PC v1.4.4",
-  "changelog": "Affordable Premium Membership plans (1 Month \u20b949, 3 Months \u20b9129, 6 Months \u20b9249, 1 Year \u20b9399) and plan chooser.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.4/Infinity_Player_Update_v1.4.4.zip",
+  "title": "Infinity Player PC v1.4.5",
+  "changelog": "Podcast & Spotify Master Suite: Subscribed Shows, Top 50 India & Global Charts, Categories, RSS Feed Importer, Smart Audio Mode, and Spotify Charts.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.5/Infinity_Player_Update_v1.4.5.zip",
   "mandatory": false,
   "android": {
     "version": "0.20.0",
