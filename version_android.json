@@ -4,7 +4,7 @@
   "release_date": "2026-10-25",
   "title": "Infinity Player PC v1.4.8",
   "changelog": "Fix Spotify login freezing and unblock Escape cancel; guide setup for developer credentials; instant remote control without login.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.8/Infinity_Player_Update_v1.4.8.zip",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Update_v1.4.8.zip",
   "mandatory": false,
   "android": {
     "version": "0.23.0",
@@ -12,7 +12,7 @@
     "release_date": "2026-10-25",
     "title": "Infinity Player Android Beta 0.23.0",
     "changelog": "Fix Spotify login validation with guided developer setup; instant in-app Spotify App Remote Control with zero credentials needed.",
-    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.18/Infinity_Player_Android_Beta_0_18.apk",
+    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
 }
