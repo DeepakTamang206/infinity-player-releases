@@ -1,10 +1,10 @@
 {
-  "version": "1.5.0",
-  "build": 150,
+  "version": "1.5.1",
+  "build": 151,
   "release_date": "2026-10-25",
-  "title": "Infinity Player PC v1.5.0",
-  "changelog": "Infinity AI dynamic language update: English is now the default language; dynamically matches user language between English and Roman Hindi without sticky language carry-over.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.0.zip",
+  "title": "Infinity Player PC v1.5.1",
+  "changelog": "Added specialized Infinity AI suite: Epic Novel & 3D Audio Drama Studio with multi-chapter generation, Ask Anything & Live Search with accurate real-time facts, Virtual Companion & Close Friend (Male and Female), and AI Music & Sound Creator with audio playback and export. 100% English UI options.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.1.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.4",
