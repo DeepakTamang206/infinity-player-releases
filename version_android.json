@@ -1,17 +1,17 @@
 {
-  "version": "1.4.7",
-  "build": 147,
+  "version": "1.4.8",
+  "build": 148,
   "release_date": "2026-10-25",
-  "title": "Infinity Player PC v1.4.7",
-  "changelog": "Spotify Remote Control & In-App Playback: media keys control, live playback status, auto-pause on escape, and seamless background streaming.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.7/Infinity_Player_Update_v1.4.7.zip",
+  "title": "Infinity Player PC v1.4.8",
+  "changelog": "Fix Spotify login freezing and unblock Escape cancel; guide setup for developer credentials; instant remote control without login.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.8/Infinity_Player_Update_v1.4.8.zip",
   "mandatory": false,
   "android": {
-    "version": "0.22.0",
-    "build": 45,
+    "version": "0.23.0",
+    "build": 46,
     "release_date": "2026-10-25",
-    "title": "Infinity Player Android Beta 0.22.0",
-    "changelog": "Spotify In-App Remote Control: background playback via Spotify Connect, play/pause/skip media dispatch, stop playback, and zero screen interruption.",
+    "title": "Infinity Player Android Beta 0.23.0",
+    "changelog": "Fix Spotify login validation with guided developer setup; instant in-app Spotify App Remote Control with zero credentials needed.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.18/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
