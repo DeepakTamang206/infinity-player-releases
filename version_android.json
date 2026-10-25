@@ -7,11 +7,11 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Update_v1.4.8.zip",
   "mandatory": false,
   "android": {
-    "version": "0.23.0",
-    "build": 46,
+    "version": "0.24.0",
+    "build": 47,
     "release_date": "2026-10-25",
-    "title": "Infinity Player Android Beta 0.23.0",
-    "changelog": "Fix Spotify login validation with guided developer setup; instant in-app Spotify App Remote Control with zero credentials needed.",
+    "title": "Infinity Player Android Beta 0.24.0",
+    "changelog": "Complete AudioVault overhaul: separate Search/Browse for Movies and Shows, clean Email & Password login, account registration, direct series folder entry, 1-click episode playback, and series ZIP download.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
