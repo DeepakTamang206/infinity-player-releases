@@ -7,11 +7,11 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.4/Infinity_Player_Update_v1.4.4.zip",
   "mandatory": false,
   "android": {
-    "version": "0.19.0",
-    "build": 42,
+    "version": "0.20.0",
+    "build": 43,
     "release_date": "2026-10-25",
-    "title": "Infinity Player Android Beta 0.19.0",
-    "changelog": "Accessible player controls lineup (Title, Slider, Stop, Autoplay, Quality, Prev, Rewind 10s, Play/Pause, Forward 10s, Next), Audio Quality selector (High/Standard/Low) for Audioboom/Hubhopper/AudioVault, Settings defaults, and Android 12 Gemini 3.5 AI fix.",
+    "title": "Infinity Player Android Beta 0.20.0",
+    "changelog": "Podcast & Spotify Master Suite: Subscriptions, Top 50 India/Global Shows, Categories, Resume Listening, Playback Speed (1.0x-2.0x), Spotify Charts, Moods, and App Remote.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.18/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
