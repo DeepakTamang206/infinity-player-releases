@@ -3,7 +3,7 @@
   "build": 144,
   "release_date": "2026-10-25",
   "title": "Infinity Player PC v1.4.4",
-  "changelog": "Affordable Premium Membership plans (1 Month ₹49, 3 Months ₹129, 6 Months ₹249, 1 Year ₹399) and plan chooser.",
+  "changelog": "Affordable Premium Membership plans (1 Month \u20b949, 3 Months \u20b9129, 6 Months \u20b9249, 1 Year \u20b9399) and plan chooser.",
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v1.4.4/Infinity_Player_Update_v1.4.4.zip",
   "mandatory": false,
   "android": {
@@ -11,7 +11,7 @@
     "build": 42,
     "release_date": "2026-10-25",
     "title": "Infinity Player Android Beta 0.19.0",
-    "changelog": "Android 12 compatibility pack: high-speed verified Gemini 3.5 AI chain, TalkBack answer dialog, YouTube 0-result fallback, and labeled in-app voice controls.",
+    "changelog": "Accessible player controls lineup (Title, Slider, Stop, Autoplay, Quality, Prev, Rewind 10s, Play/Pause, Forward 10s, Next), Audio Quality selector (High/Standard/Low) for Audioboom/Hubhopper/AudioVault, Settings defaults, and Android 12 Gemini 3.5 AI fix.",
     "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.18/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
