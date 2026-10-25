@@ -1,10 +1,10 @@
 {
-  "version": "1.4.8",
-  "build": 148,
+  "version": "1.4.9",
+  "build": 149,
   "release_date": "2026-10-25",
-  "title": "Infinity Player PC v1.4.8",
-  "changelog": "Fix Spotify login freezing and unblock Escape cancel; guide setup for developer credentials; instant remote control without login.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Update_v1.4.8.zip",
+  "title": "Infinity Player PC v1.4.9",
+  "changelog": "AudioVault UX overhaul: pressing Enter directly opens web series episode folders and 1-click plays episodes; Application key opens episode & season download actions.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.4.9.zip",
   "mandatory": false,
   "android": {
     "version": "0.25.0",
