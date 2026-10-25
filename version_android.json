@@ -7,11 +7,11 @@
   "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.4.9.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.2",
-    "build": 52,
+    "version": "0.27.3",
+    "build": 53,
     "release_date": "2026-10-25",
-    "title": "Infinity Player Android Beta 0.27.2",
-    "changelog": "Independent thread updater isolation, multi-threaded cached pool for AudioVault and search, and startup auto-update toggle respect.",
+    "title": "Infinity Player Android Beta 0.27.3",
+    "changelog": "Fixed Audioboom episode listing and playback, fixed Hubhopper HTTP 308 redirect and episode browser, enabled full streaming and downloading.",
     "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
