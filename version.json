@@ -7,12 +7,12 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Update_v1.4.8.zip",
   "mandatory": false,
   "android": {
-    "version": "0.24.0",
-    "build": 47,
+    "version": "0.25.0",
+    "build": 48,
     "release_date": "2026-10-25",
-    "title": "Infinity Player Android Beta 0.24.0",
-    "changelog": "Complete AudioVault overhaul: separate Search/Browse for Movies and Shows, clean Email & Password login, account registration, direct series folder entry, 1-click episode playback, and series ZIP download.",
-    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/raw/main/Infinity_Player_Android_Beta_0_18.apk",
+    "title": "Infinity Player Android Beta 0.25.0",
+    "changelog": "Overhauled AudioVault: non-blocking speech announcements without stuck OK button, rock-solid login & account registration, direct series episode folder entry, 1-click episode playback, and full series ZIP download.",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
 }
