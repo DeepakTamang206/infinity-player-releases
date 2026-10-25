@@ -7,11 +7,11 @@
   "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.4.9.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.1",
-    "build": 51,
+    "version": "0.27.2",
+    "build": 52,
     "release_date": "2026-10-25",
-    "title": "Infinity Player Android Beta 0.27.1",
-    "changelog": "Reliable fast In-App updater via Releases CDN, Android 12 playback & foreground service fixes, YouTube direct search, and podcast streaming.",
+    "title": "Infinity Player Android Beta 0.27.2",
+    "changelog": "Independent thread updater isolation, multi-threaded cached pool for AudioVault and search, and startup auto-update toggle respect.",
     "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_18.apk",
     "mandatory": false
   }
