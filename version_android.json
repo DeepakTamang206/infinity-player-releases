@@ -1,10 +1,10 @@
 {
-  "version": "1.5.1",
-  "build": 151,
-  "release_date": "2026-10-25",
-  "title": "Infinity Player PC v1.5.1",
-  "changelog": "Added specialized Infinity AI suite: Epic Novel & 3D Audio Drama Studio with multi-chapter generation, Ask Anything & Live Search with accurate real-time facts, Virtual Companion & Close Friend (Male and Female), and AI Music & Sound Creator with audio playback and export. 100% English UI options.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.1.zip",
+  "version": "1.5.2",
+  "build": 152,
+  "release_date": "2026-10-26",
+  "title": "Infinity Player PC v1.5.2",
+  "changelog": "Enhanced Story Studio with strict Hindi/Roman Hindi matching for all 3D audio foley cues without English mixing; redesigned AI Music Engine with authentic vocal humming, expressive bamboo flute (Bansuri), acoustic piano arpeggios, and stereophonic birdsong.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.2.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.4",
