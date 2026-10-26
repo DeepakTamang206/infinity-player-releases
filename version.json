@@ -1,10 +1,10 @@
 {
-  "version": "1.5.3",
-  "build": 153,
+  "version": "1.5.4",
+  "build": 154,
   "release_date": "2026-10-26",
-  "title": "Infinity Player PC v1.5.3",
-  "changelog": "Added result limit controls for Audioboom and Hubhopper in Settings (series/playlists and single episodes) up to 10,000 results; significantly expanded search pagination and episode listings across Audioboom and Hubhopper.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.3.zip",
+  "title": "Infinity Player PC v1.5.4",
+  "changelog": "Clean user profile architecture: migrated user settings, AI chat sessions, and service credentials into Windows AppData Roaming and Local directories; automated migration of existing data; zero clutter in root folder.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.4.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.4",
