@@ -7,12 +7,12 @@
   "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.6.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.6",
-    "build": 56,
+    "version": "0.27.7",
+    "build": 57,
     "release_date": "2026-10-27",
-    "title": "Infinity Player Android Beta 0.27.6",
-    "changelog": "Cloud Account & User Management system: Brevo email OTP registration, cloud login, license sync; Admin & Developer management desk with user directory, plan upgrades, block/unblock, and role promotion; rapid seek (+/-10s) stutter fix with smooth keyframe positioning; Android 14 playback resolution with resilient dual-engine audio fallback and notification permissions; universal favorites category playback for all videos and media streams.",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_20.apk",
+    "title": "Infinity Player Android Beta 0.27.7",
+    "changelog": "Mandatory Login Gate: Like PC edition, player features are secured and inaccessible without an active cloud account; instant startup sign-in / registration with 7-day free trial; password-masked input fields; seamless session persistence; and exit enforcement.",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_21.apk",
     "mandatory": false
   }
 }
