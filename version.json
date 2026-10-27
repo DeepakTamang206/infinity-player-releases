@@ -1,10 +1,10 @@
 {
-  "version": "1.5.5",
-  "build": 155,
+  "version": "1.5.6",
+  "build": 156,
   "release_date": "2026-10-27",
-  "title": "Infinity Player PC v1.5.5",
-  "changelog": "Cloud Auth & In-Player Developer Control: Live Brevo email OTP delivery, In-Player Developer Control Center (F12) to view and manage all registered users, instant block/unblock controls, subscription plan manager, license days extender, and offline developer authentication fallback.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.5.zip",
+  "title": "Infinity Player PC v1.5.6",
+  "changelog": "Clean Professional Role Separation: Admin staff now enjoys full Lifetime Access without payment menus; direct In-List promote/demote role controls; search users by email/name; dedicated staff desk with hotkey F11; developer-exclusive F12 Master Center and protected creator account.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.6.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.5",
