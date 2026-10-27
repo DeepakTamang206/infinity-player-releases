@@ -12,7 +12,7 @@
     "release_date": "2026-10-27",
     "title": "Infinity Player Android Beta 0.27.11",
     "changelog": "Instant smooth seek controls (+/-10s) with rebuffer latency reduced to 200ms; fixed AudioVault movies & episodes rewind/forward jumping to beginning; fixed Favorite Categories playback.",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_25.apk",
+    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.25/Infinity_Player_Android_Beta_0_25.apk",
     "mandatory": false
   }
 }
