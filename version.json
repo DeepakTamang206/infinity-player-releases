@@ -7,12 +7,12 @@
   "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.6.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.5",
-    "build": 55,
+    "version": "0.27.6",
+    "build": 56,
     "release_date": "2026-10-27",
-    "title": "Infinity Player Android Beta 0.27.5",
-    "changelog": "Fixed AudioVault auto-logout with silent session recovery and continuous streaming reconnect; added debounced rapid-seek controls (+/-10s) and click protection; restored YouTube Favorites hierarchy with Saved Playlists and Favorite Categories.",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_19.apk",
+    "title": "Infinity Player Android Beta 0.27.6",
+    "changelog": "Cloud Account & User Management system: Brevo email OTP registration, cloud login, license sync; Admin & Developer management desk with user directory, plan upgrades, block/unblock, and role promotion; rapid seek (+/-10s) stutter fix with smooth keyframe positioning; Android 14 playback resolution with resilient dual-engine audio fallback and notification permissions; universal favorites category playback for all videos and media streams.",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_20.apk",
     "mandatory": false
   }
 }
