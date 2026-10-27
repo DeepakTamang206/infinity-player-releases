@@ -1,10 +1,10 @@
 {
-  "version": "1.5.4",
-  "build": 154,
-  "release_date": "2026-10-26",
-  "title": "Infinity Player PC v1.5.4",
-  "changelog": "Clean user profile architecture: migrated user settings, AI chat sessions, and service credentials into Windows AppData Roaming and Local directories; automated migration of existing data; zero clutter in root folder.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.4.zip",
+  "version": "1.5.5",
+  "build": 155,
+  "release_date": "2026-10-27",
+  "title": "Infinity Player PC v1.5.5",
+  "changelog": "Cloud Auth & In-Player Developer Control: Live Brevo email OTP delivery, In-Player Developer Control Center (F12) to view and manage all registered users, instant block/unblock controls, subscription plan manager, license days extender, and offline developer authentication fallback.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.5.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.5",
