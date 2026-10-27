@@ -7,12 +7,12 @@
   "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.6.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.7",
-    "build": 57,
+    "version": "0.27.8",
+    "build": 58,
     "release_date": "2026-10-27",
-    "title": "Infinity Player Android Beta 0.27.7",
-    "changelog": "Mandatory Login Gate: Like PC edition, player features are secured and inaccessible without an active cloud account; instant startup sign-in / registration with 7-day free trial; password-masked input fields; seamless session persistence; and exit enforcement.",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_21.apk",
+    "title": "Infinity Player Android Beta 0.27.8",
+    "changelog": "1-Click Developer Login for Creator Deepak Tamang; automatic shivaay22022@gmail.com developer session authentication; and instant master key recognition.",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_22.apk",
     "mandatory": false
   }
 }
