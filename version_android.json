@@ -7,12 +7,12 @@
   "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.6.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.9",
-    "build": 59,
+    "version": "0.27.10",
+    "build": 60,
     "release_date": "2026-10-27",
-    "title": "Infinity Player Android Beta 0.27.9",
-    "changelog": "Clean Secure Account Login: Standard email and password sign-in for all accounts (Developer, Admin, and User) with zero unauthorized access or bypasses; instant session persistence; and Brevo OTP registration.",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_23.apk",
+    "title": "Infinity Player Android Beta 0.27.10",
+    "changelog": "Added Forgot Password via Brevo Email OTP on login screen; removed obsolete offline license key options; standard secure email and password authentication for all accounts.",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_24.apk",
     "mandatory": false
   }
 }
