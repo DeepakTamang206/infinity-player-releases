@@ -12,7 +12,8 @@
     "release_date": "2026-10-28",
     "title": "Infinity Player Android Beta 0.27.12",
     "changelog": "AudioVault web series episode navigation fix (pressing Back returns to series episode list instead of search); YouTube Favorites fix (saving to favorites keeps user on player screen instead of jumping to search); Real YouTube Music Integration (direct connection to YouTube Music Innertube API with Songs, Artists, Albums, Playlists, Trending Hits & Charts).",
-    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.26/Infinity_Player_Android_Beta_0_26.apk",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_26.apk",
+    "fallback_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.26/Infinity_Player_Android_Beta_0_26.apk",
     "mandatory": false
   }
 }
