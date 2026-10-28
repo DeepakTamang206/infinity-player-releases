@@ -1,18 +1,18 @@
 {
-  "version": "1.5.6",
-  "build": 156,
-  "release_date": "2026-10-27",
-  "title": "Infinity Player PC v1.5.6",
-  "changelog": "Clean Professional Role Separation: Admin staff now enjoys full Lifetime Access without payment menus; direct In-List promote/demote role controls; search users by email/name; dedicated staff desk with hotkey F11; developer-exclusive F12 Master Center and protected creator account.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.6.zip",
+  "version": "1.5.7",
+  "build": 157,
+  "release_date": "2026-10-28",
+  "title": "Infinity Player PC v1.5.7",
+  "changelog": "Real YouTube Music Integration: Connected directly to official YouTube Music (WEB_REMIX Innertube API). Dedicated navigation for Songs, Artists, Albums, Playlists, Trending Hits, and Charts. Pure music results with zero general video, movie, or web series clutter.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.7.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.11",
-    "build": 61,
-    "release_date": "2026-10-27",
-    "title": "Infinity Player Android Beta 0.27.11",
-    "changelog": "Instant smooth seek controls (+/-10s) with rebuffer latency reduced to 200ms; fixed AudioVault movies & episodes rewind/forward jumping to beginning; fixed Favorite Categories playback.",
-    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.25/Infinity_Player_Android_Beta_0_25.apk",
+    "version": "0.27.12",
+    "build": 62,
+    "release_date": "2026-10-28",
+    "title": "Infinity Player Android Beta 0.27.12",
+    "changelog": "AudioVault web series episode navigation fix (pressing Back returns to series episode list instead of search); YouTube Favorites fix (saving to favorites keeps user on player screen instead of jumping to search); Real YouTube Music Integration (direct connection to YouTube Music Innertube API with Songs, Artists, Albums, Playlists, Trending Hits & Charts).",
+    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.26/Infinity_Player_Android_Beta_0_26.apk",
     "mandatory": false
   }
 }
