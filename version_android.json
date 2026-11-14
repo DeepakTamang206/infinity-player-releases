@@ -1,19 +1,19 @@
 {
-  "version": "1.5.7",
-  "build": 157,
-  "release_date": "2026-10-28",
-  "title": "Infinity Player PC v1.5.7",
-  "changelog": "Real YouTube Music Integration: Connected directly to official YouTube Music (WEB_REMIX Innertube API). Dedicated navigation for Songs, Artists, Albums, Playlists, Trending Hits, and Charts. Pure music results with zero general video, movie, or web series clutter.",
-  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.7.zip",
+  "version": "1.5.8",
+  "build": 158,
+  "release_date": "2026-11-14",
+  "title": "Infinity Player PC v1.5.8",
+  "changelog": "High-Speed 24/7 Dedicated VPS Server Migration (deepaktamang.duckdns.org): Zero cold start delays, persistent database, ultra-fast logins and status verification.",
+  "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Update_v1.5.8.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.13",
-    "build": 63,
-    "release_date": "2026-11-04",
-    "title": "Infinity Player Android Beta 0.27.13",
-    "changelog": "1. AudioVault Movies Next/Previous Navigation Fix (smooth queue navigation across movies). 2. Favorites Category Video Deletion (direct option to delete/remove saved videos inside user-created categories). 3. Full Infinity AI Suite (Epic Novel & 3D Audio Drama Studio, Ask Anything & Live Search, Virtual Companions Female & Male, AI Music & Sound Creator, Chat History & Settings).",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_27.apk",
-    "fallback_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.27/Infinity_Player_Android_Beta_0_27.apk",
+    "version": "0.27.14",
+    "build": 64,
+    "release_date": "2026-11-14",
+    "title": "Infinity Player Android Beta 0.27.14",
+    "changelog": "High-Speed 24/7 Dedicated VPS Server Migration (deepaktamang.duckdns.org): Zero cold start delays, instant login, and full SSL encryption.",
+    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_28.apk",
+    "fallback_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.28/Infinity_Player_Android_Beta_0_28.apk",
     "mandatory": false
   }
 }
