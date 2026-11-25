@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
-  "build": 200,
+  "version": "2.0.1",
+  "build": 201,
   "release_date": "2026-11-25",
-  "title": "Infinity Player PC v2.0.0",
-  "changelog": "Native Nuitka Build: Mandatory Account Login Gate, YouTube 16:9 Thumbnails & Live Streams Detection, NVGT-Style Space Details & A-Z Alphabet Jump, and Built-in Auto-Updater.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.0/Infinity_Player_Update_v2.0.0.zip",
+  "title": "Infinity Player PC v2.0.1",
+  "changelog": "Full NVGT Settings Menu (17 options + persistent settings.json), Startup Auto-Update Check, Mandatory Login Gate, NVDA Speech DLLs, Escape Stop Fix, YouTube 16:9 Thumbnails & Live Streams, Space Details & A-Z Alphabet Jump.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.1/Infinity_Player_Update_v2.0.1.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.14",
