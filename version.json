@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1",
-  "build": 201,
-  "release_date": "2026-11-25",
-  "title": "Infinity Player PC v2.0.1",
-  "changelog": "Full NVGT Settings Menu (17 options + persistent settings.json), Startup Auto-Update Check, Mandatory Login Gate, NVDA Speech DLLs, Escape Stop Fix, YouTube 16:9 Thumbnails & Live Streams, Space Details & A-Z Alphabet Jump.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.1/Infinity_Player_Update_v2.0.1.zip",
+  "version": "2.0.2",
+  "build": 202,
+  "release_date": "2026-11-27",
+  "title": "Infinity Player PC v2.0.2",
+  "changelog": "AudioVault HTTP Range seeking & auto-reconnect stability, Per-source Next/Previous playlists (AudioVault, Radio, YouTube, Audioboom, Hubhopper, Local), and 5% Up/Down Volume Step.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.2/Infinity_Player_Update_v2.0.2.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.14",
