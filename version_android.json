@@ -1,10 +1,10 @@
 {
-  "version": "2.0.5",
-  "build": 205,
+  "version": "2.0.6",
+  "build": 206,
   "release_date": "2026-11-28",
-  "title": "Infinity Player PC v2.0.5",
-  "changelog": "Live auto-updater verification release with NVGT-style Update Download Progress Screen, detached self-replace installer, AudioVault Range seeking & reconnect, Per-source Next/Prev playlists, and 5% Volume Step.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.5/Infinity_Player_Update_v2.0.5.zip",
+  "title": "Infinity Player PC v2.0.6",
+  "changelog": "Lightweight ~15 MB Nuitka patch: Fixes detached .ps1 self-updater relaunch and duplicate cancel speech.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.6/Infinity_Player_Update_v2.0.6.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.14",
