@@ -1,10 +1,10 @@
 {
-  "version": "2.0.8",
-  "build": 208,
+  "version": "2.0.9",
+  "build": 209,
   "release_date": "2026-11-28",
   "title": "Infinity Player PC v2.0.7",
-  "changelog": "Fixed AudioVault episode playback duration & fast-forward seeking (instant full duration on play).",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.8/Infinity_Player_Update_v2.0.8.zip",
+  "changelog": "AudioVault episodes now play immediately on Enter with instant Player Screen switch and no duplicate restart.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.9/Infinity_Player_Update_v2.0.9.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.14",
