@@ -1,10 +1,10 @@
 {
-  "version": "2.0.3",
-  "build": 203,
+  "version": "2.0.4",
+  "build": 204,
   "release_date": "2026-11-27",
-  "title": "Infinity Player PC v2.0.3",
-  "changelog": "NVGT-style Update Download Progress Screen (live MB/percent + Space key progress readout + Escape cancel), AudioVault Range seeking & reconnect, Per-source Next/Prev playlists, and 5% Volume Step.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.3/Infinity_Player_Update_v2.0.3.zip",
+  "title": "Infinity Player PC v2.0.4",
+  "changelog": "Fixes Nuitka compiled self-update detached installer (no Permission denied error), plus NVGT-style Update Download Progress Screen, AudioVault Range seeking & reconnect, Per-source Next/Prev playlists, and 5% Volume Step.",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.4/Infinity_Player_Update_v2.0.4.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.14",
