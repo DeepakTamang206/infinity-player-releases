@@ -1,10 +1,10 @@
 {
-  "version": "2.0.7",
-  "build": 207,
+  "version": "2.0.8",
+  "build": 208,
   "release_date": "2026-11-28",
   "title": "Infinity Player PC v2.0.7",
-  "changelog": "Lightweight ~14.5 MB Nuitka OTA patch update verification.",
-  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.7/Infinity_Player_Update_v2.0.7.zip",
+  "changelog": "Fixed AudioVault episode playback duration & fast-forward seeking (instant full duration on play).",
+  "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.8/Infinity_Player_Update_v2.0.8.zip",
   "mandatory": false,
   "android": {
     "version": "0.27.14",
