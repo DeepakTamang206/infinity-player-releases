@@ -7,13 +7,13 @@
   "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/v2.0.10/Infinity_Player_Update_v2.0.10.zip",
   "mandatory": false,
   "android": {
-    "version": "0.27.14",
-    "build": 64,
-    "release_date": "2026-11-14",
-    "title": "Infinity Player Android Beta 0.27.14",
-    "changelog": "High-Speed 24/7 Dedicated VPS Server Migration (deepaktamang.duckdns.org): Zero cold start delays, instant login, and full SSL encryption.",
-    "download_url": "https://raw.githubusercontent.com/DeepakTamang206/infinity-player-releases/main/Infinity_Player_Android_Beta_0_28.apk",
-    "fallback_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.28/Infinity_Player_Android_Beta_0_28.apk",
+    "version": "0.29",
+    "build": 65,
+    "release_date": "2026-11-28",
+    "title": "Infinity Player Android Beta 0.29",
+    "changelog": "1. Fixed AudioVault online streaming duration, seeking, and auto-relogin. 2. Fixed 'Nothing is ready to play' after pause or network switch (auto-reconnects at saved position). 3. Added local backup & auto-restore for favorites, playlists, and categories. 4. Added 7-day inactivity auto-logout and VPS device session auto-restore on reinstall.",
+    "download_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.29/Infinity_Player_Android_Beta_0_29.apk",
+    "fallback_url": "https://github.com/DeepakTamang206/infinity-player-releases/releases/download/android-v0.29/Infinity_Player_Android_Beta_0_29.apk",
     "mandatory": false
   }
 }
